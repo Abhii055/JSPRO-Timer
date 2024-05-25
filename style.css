@@ -21,7 +21,7 @@ body{
         transform:rotateX(0deg);
     }
     to{
-        transform:rotateX(10deg);
+        transform:rotateX(15deg);
     }
 }
 /* @keyframes rotate {
